@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Matheus Servino
 
-**`🎓 Estudante de Informática para Internet na ETEC | 💻 Em formação para Desenvolvedor FullStack`**
+**`🎓 Estudante de ADS na fatec | 💻 Em formação para Desenvolvedor De Software`**
 
-Me chamo Matheus Servino, tenho 18 anos e sou natural de Araraquara. Atualmente, estou cursando o ultimo semestre, No curso técnico em informática para internet, na etec. Sou apaixonado por tecnologia
+Me chamo Matheus Servino, tenho 18 anos e sou natural de Araraquara. Atualmente, curso o primeiro semestre de Análise e Desenvolvimento de Sistemas na FATEC. Sou formado em Informática para Internet pela ETEC e apaixonado por tecnologia.
 
 
 ### 🤖 Linguagens e Tecnologias
