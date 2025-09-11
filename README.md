@@ -49,12 +49,13 @@ Me chamo Matheus Servino, tenho 18 anos e sou natural de Araraquara. Atualmente,
 />
 <img 
     align="left" 
-    alt="Go"
-    title="Go" 
+    alt="Go" 
+    title="Go"
     width="30px" 
     style="padding-right: 10px;" 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"          
+    img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"         
 />
+
 <br/>
 <br/>
 
