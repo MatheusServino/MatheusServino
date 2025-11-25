@@ -59,14 +59,7 @@ Me chamo Matheus Servino, tenho 18 anos e sou natural de Araraquara. Atualmente,
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
 <p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusServino&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+
 
 </p>
